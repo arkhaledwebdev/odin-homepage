@@ -172,7 +172,7 @@ body {
   font-family: 'Merriweather','Courier New', Courier, monospace;
 }
 
-header{
+header, .image-container{
   display: flex;
   flex-direction: column;
   align-items: center;
